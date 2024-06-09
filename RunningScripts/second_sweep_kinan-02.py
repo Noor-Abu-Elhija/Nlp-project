@@ -18,7 +18,6 @@ sweep_config = {
         "name": "AUC.test.max"
     },
     "parameters": {
-        "seed": {"values": 1},
         "architecture": {"values": ["LSTM", "transformer", "Final_Model", "LogReg", "TransformerAttention",
                                     "TransformerLSTM", "AttentionLSTM", "Attention"]}
     },
