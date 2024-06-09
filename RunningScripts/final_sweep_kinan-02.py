@@ -1,5 +1,5 @@
 import wandb
-YOUR_WANDB_USERNAME = "noor25"
+YOUR_WANDB_USERNAME = "kinan"
 project = "NLP2024_PROJECT_kinan-02"
 
 command = [
