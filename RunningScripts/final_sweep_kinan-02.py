@@ -5,7 +5,7 @@ project = "NLP2024_PROJECT_kinan-02"
 command = [
         "${ENVIRONMENT_VARIABLE}",
         "${interpreter}",
-        "NLP/StrategyTransfer.py",
+        "StrategyTransfer.py",
         "${project}",
         "${args}"
     ]
